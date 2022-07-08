@@ -1,4 +1,4 @@
-public class C02_Variables {
+public class B01_Variables {
     public static void main(String[] args) {
         // На 7-й строке, создаем переменную с именем a, типа byte и присваиваем ей значение 2.
 

@@ -1,4 +1,4 @@
-public class C05_FloatDouble {
+public class B04_FloatDouble {
     public static void main(String[] args) {
         float variable1 = 0.12345678901234567890f;
         double variable2 = 0.12345678901234567d;

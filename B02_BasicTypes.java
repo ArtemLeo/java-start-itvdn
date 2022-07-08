@@ -1,4 +1,4 @@
-public class C03_BasicTypes {
+public class B02_BasicTypes {
     public static void main(String[] args) {
         // ЦЕЛЫЕ ТИПЫ
         // 8-bits == 1 byte. ----------------------------------------------------------------------------

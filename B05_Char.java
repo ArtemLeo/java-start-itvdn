@@ -1,4 +1,4 @@
-public class C06_Char {
+public class B05_Char {
     public static void main(String[] args) {
         char a = 'A';       // Символ
         char b = 0x0041;    // Значение в 16-ричном формате

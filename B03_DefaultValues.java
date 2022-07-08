@@ -1,4 +1,4 @@
-public class C04_DefaultValues {
+public class B03_DefaultValues {
     public static void main(String[] args) {
         // На 7-й строке, создаем переменную с именем a, типа byte и не присваиваем ей никакого значения.
 
