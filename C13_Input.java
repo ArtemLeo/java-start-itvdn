@@ -1,5 +1,3 @@
-package com.itvdn.javaStarter;
-
 import java.util.Scanner;
 
 public class C13_Input {

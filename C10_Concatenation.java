@@ -1,5 +1,3 @@
-package com.itvdn.javaStarter;
-
 public class C10_Concatenation {
     // Сцепление строк. (Конкатенация)
 

@@ -1,5 +1,3 @@
-package com.itvdn.javaStarter;
-
 public class C12_TypesComparison {
     public static void main(String[] args) {
         boolean result1;

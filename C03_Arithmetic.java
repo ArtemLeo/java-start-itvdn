@@ -1,5 +1,3 @@
-package com.itvdn.javaStarter;
-
 public class C03_Arithmetic {
 
     // Арифметические операторы (C03_Arithmetic Operators): +, -, *, /, %

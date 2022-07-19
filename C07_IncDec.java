@@ -1,5 +1,3 @@
-package com.itvdn.javaStarter;
-
 public class C07_IncDec {
     // Операторы Инкремента и Декремента (Increment and Decrement Operators)
 

@@ -1,5 +1,3 @@
-package com.itvdn.javaStarter;
-
 public class C08_Assignment {
     public static void main(String[] args) {
         // ПРАВИЛО:
@@ -12,7 +10,7 @@ public class C08_Assignment {
         //variable1 = variable1 + 5;       // ОШИБКА: Попытка неявного преобразования значения результата, тип int в тип byte.
         //variable1 = (byte)variable1 + 5; // ОШИБКА: Происходит преобразование типа byte в тип byte,  раньше выполнения операции сложения.
 
-        variable1 = (byte)(variable1 + 5); // Громоздкое решение.
+        variable1 = (byte) (variable1 + 5); // Громоздкое решение.
 
         variable1 += 5;                    // Элегантное решение.
 

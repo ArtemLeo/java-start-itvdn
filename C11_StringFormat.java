@@ -1,5 +1,3 @@
-package com.itvdn.javaStarter;
-
 public class C11_StringFormat {
     public static void main(String[] args) {
         int a = 1, b = 2, c = 3;
