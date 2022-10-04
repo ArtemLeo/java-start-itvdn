@@ -7,9 +7,7 @@ public class G05_Methods {
 
     public static void main(String[] args) {
         int summand1 = 2, summand2 = 3;
-
         int sum = add(summand1, summand2);
-
         System.out.println(summand1 + " + " + summand2 + " = " + sum);
     }
 }
