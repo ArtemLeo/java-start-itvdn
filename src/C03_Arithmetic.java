@@ -3,6 +3,7 @@ public class C03_Arithmetic {
     // Арифметические операторы (C03_Arithmetic Operators): +, -, *, /, %
 
     public static void main(String[] args) {
+        
         // Addition (+)
         byte summand1 = 1, summand2 = 2; // Множественное объявление.
         int sum = 0;
