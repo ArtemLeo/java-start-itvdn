@@ -1,6 +1,6 @@
 public class H09_MethodsFactorial {
+    
     // Нахождение факториала числа.
-
     static int factorial(int n) {
         if (n == 0)
             return 1;
@@ -10,7 +10,6 @@ public class H09_MethodsFactorial {
 
     public static void main(String[] args) {
         int factorial = factorial(5);
-
         System.out.println(factorial);
     }
 }
