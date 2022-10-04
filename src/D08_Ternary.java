@@ -1,4 +1,5 @@
 public class D08_Ternary {
+    
     // Тернарная условная операция. Ограничения связанные с типобезопасностью.
 
     public static void main(String[] args) {
