@@ -27,11 +27,10 @@ public class F08_Factorial {
             factorial *= counter--;
 
             // Данная строка эквивалентна:
-
-            //factorial = factorial * counter;
-            //counter = counter - 1;
+            // factorial = factorial * counter;
+            // counter = counter - 1;
+            
         } while (counter > 0);
-
         System.out.print(factorial);
     }
 }
