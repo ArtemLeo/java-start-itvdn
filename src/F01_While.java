@@ -8,7 +8,7 @@ public class F01_While {
             counter++;
             System.out.println("Counter " + counter);
         }
-
+        
         System.out.println("Произведено " + counter + " итераций.");
     }
 }
