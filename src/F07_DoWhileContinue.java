@@ -7,9 +7,8 @@ public class F07_DoWhileContinue {
         do {
             counter++;
             System.out.println("Counter " + counter);
-
             if (true) continue;
-
+            
             System.out.println("Эта строка не выполнится.");
         } while (counter < 3);
 
