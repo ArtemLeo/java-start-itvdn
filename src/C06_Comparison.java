@@ -27,5 +27,4 @@ public class C06_Comparison {
         result = value1 != value2;
         System.out.println(result);
     }
-
 }
