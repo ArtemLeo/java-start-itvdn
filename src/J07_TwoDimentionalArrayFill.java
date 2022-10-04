@@ -1,6 +1,6 @@
 public class J07_TwoDimentionalArrayFill {
     public static void main(String[] args) {
-       
+        
         // Компилятор определяет размер 2-го массива на основании выражения инициализации.
         int[][] array = {
                 {1, 2, 3},
