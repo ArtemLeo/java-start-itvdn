@@ -1,4 +1,5 @@
 public class H01_MethodsOverload {
+    
     // Перегруженные методы могут отличаться типом и количеством аргументов.
 
     static void function() {                 // 1-я перегрузка.
@@ -25,12 +26,7 @@ public class H01_MethodsOverload {
         System.out.println(i + s);
     }
 
-//    Перегруженные методы не могут отличаться возвращаемыми значениями!
-//    static String function(String s) {   // 7-я перегрузка.
-//
-//        return s;
-//    }
-
+//  Перегруженные методы не могут отличаться возвращаемыми значениями!
     public static void main(String[] args) {
         function();                  // 1-я перегрузка.
         function("A");               // 2-я перегрузка.
