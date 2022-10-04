@@ -3,6 +3,7 @@ import java.util.Scanner;
 public class D14_CoffeeMachine {
 
     public static void main(String[] args) {
+        
         // Предлагаем пользователю выбрать напиток.
         System.out.println("Размеры стаканчиков кофе: 1 = Маленький, 2 = Средний, 3 = Большой");
         System.out.print("Пожалуйста, сделайте свой выбор: ");
