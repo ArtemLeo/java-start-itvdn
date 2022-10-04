@@ -2,7 +2,6 @@ public class H08_MethodsRecursion {
     // Нахождение наибольшего общего делителя (НОД) двух целых чисел
 
     // Первый вариант
-
     static int calculate(int a, int b) {
         if (a % b == 0)
             return b;
@@ -12,14 +11,11 @@ public class H08_MethodsRecursion {
 
     public static void main(String[] args) {
         System.out.println("Нахождение наибольшего общего делителя двух целых чисел");
-
         int a = 676, b = 3676;
-
         System.out.println("a = " + a + ", b = " + b + ", НОД = " + calculate(a, b) + ";");
     }
 
     // Второй вариант решения
-
     static int calculate2(int a, int b) {
         while (b != 0)
             b = a % (a = b);
