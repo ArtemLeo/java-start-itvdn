@@ -1,6 +1,7 @@
 import java.util.Scanner;
 
 public class C13_Input {
+    
     // Объект класса Scanner позволяет обрабатывать ввод данных с консоли
 
     public static void main(String[] args) {
