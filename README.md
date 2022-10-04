@@ -11,3 +11,5 @@
 <p>▪️ Arrays</p>
 <img src="images readme file/1.png" alt="Logo">
 <img src="images readme file/2.png" alt="Logo">
+<img src="images readme file/3.png" alt="Logo">
+<img src="images readme file/4.png" alt="Logo">
