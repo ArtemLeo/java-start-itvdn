@@ -9,3 +9,5 @@
 <p>▪️ Methods</p>
 <p>▪️ Recursion</p>
 <p>▪️ Arrays</p>
+<img src="images readme file/1.png" alt="Logo">
+<img src="images readme file/2.png" alt="Logo">
