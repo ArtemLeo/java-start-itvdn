@@ -6,7 +6,6 @@ public class F11_ForContinue {
             System.out.println("Counter = " + counter);
 
             if (true) continue;
-
             System.out.println("Эта строка не выполнится.");
         }
     }
