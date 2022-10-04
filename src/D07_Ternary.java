@@ -8,11 +8,11 @@ public class D07_Ternary {
 
         System.out.println("Введите свой логин:");
         Scanner in = new Scanner(System.in);
-        // На 14 строке создаем переменную с именем login типа String и принимаем в нее ввод от пользователя
+        // Создаем переменную с именем login типа String и принимаем в нее ввод от пользователя
 
         String login = in.next();
 
-        // На 18 строке переменной string присваиваем возвращаемое значение тернарного оператора
+        // Переменной string присваиваем возвращаемое значение тернарного оператора
 
         string += login.equals("Admin") ? "Administrator" : "User";
         System.out.println(string);
