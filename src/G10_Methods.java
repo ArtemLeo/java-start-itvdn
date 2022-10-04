@@ -1,6 +1,7 @@
 import java.util.Scanner;
 
 public class G10_Methods {
+    
     // Параметр, передаваемый по значению, уничтожается при возврате значения методом
     // Чтобы получить изменённый результат используем ключевой слово return
 
@@ -15,10 +16,8 @@ public class G10_Methods {
         Scanner in = new Scanner(System.in);
 
         // Принимаем ввод от пользователя и преобразуем его в целочисленное значение
-
         String number = in.next();
         int result = Integer.parseInt(number);
-
         System.out.println("Значение result = " + result);
 
         // Присвоим переменной result значение, возвращённое методом addTwo()
