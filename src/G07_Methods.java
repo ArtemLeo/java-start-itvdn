@@ -12,7 +12,6 @@ public class G07_Methods {
 
     public static void main(String[] args) {
         int operand1 = 1, operand2 = 2;
-
         String result = compare(operand1, operand2);
         System.out.println(result);
     }
