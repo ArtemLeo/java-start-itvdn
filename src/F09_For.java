@@ -8,6 +8,7 @@ public class F09_For {
             System.out.println("Counter = " + counter);
         }
         
-        //counter = 0; //  counter - недоступен за пределами цикла for.
+        // counter = 0; 
+        // counter - недоступен за пределами цикла for.
     }
 }
