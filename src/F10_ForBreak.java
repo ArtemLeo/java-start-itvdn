@@ -6,7 +6,6 @@ public class F10_ForBreak {
             System.out.println("Counter = " + counter);
 
             if (true) break;
-
             System.out.println("Эта строка не выполнится.");
         }
     }
