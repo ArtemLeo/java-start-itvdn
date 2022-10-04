@@ -12,7 +12,6 @@ public class G01_Methods {
     public static void main(String[] args) {
 
         // В теле метода Main, вызываем метод procedure.
-
         procedure();
     }
 }
